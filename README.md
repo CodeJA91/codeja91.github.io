@@ -37,6 +37,16 @@ the download should start automatically.
 
 Implement CSS and JS elements into my pages.
 
+## Credit
+
+I give credit to my resources:
+
+* https://www.epicodus.com/ - A vocational coding/programming bootcamp with a curriculum structured for online/on location. 
+
+* https://www.freecodecamp.org/ - A free online coding/programming school and excellent resource.
+
+Thank you for giving me the skills to create content.
+
 ## Licensing
 
 MIT License
