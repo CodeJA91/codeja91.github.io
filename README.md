@@ -13,15 +13,15 @@
 
 ## Description
 
-This folder contains 2 .html files, and a sub-folder that contains assets, to which those .html files reference. The purpose of this project is to demonstrate my current skill and knowledge of HTML as I progress, during my time learning at Epicodus.
+This folder contains 2 .html files, and a sub-folder that contains assets, to which those .html files reference, a css file and a readme. The purpose of this project is to demonstrate my current skill and knowledge of HTML, as well as document my progress, during my time learning at Epicodus.
 
-## How To View
+## How To View Online
 
-Visit this address by copying and pasting this URL into the addess bar:https://codeja91.github.io/
+Visit this address by copying and pasting this URL into the addess bar: https://codeja91.github.io/
 
-## How To Download
+## How To Download For Offline Viewing
 
-The only requirement to download and view my project is to have an internet browser installed.
+The only requirement to download and view my project offline is to have an internet browser installed.
 * (1). Click or copy this URL: https://github.com/CodeJA91/my-first-webpage/archive/main.zip
 * (2). If it hasn't begun downloading, paste the URL into your preferred web browser's address bar, after which,
 the download should start automatically.
