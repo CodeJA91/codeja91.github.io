@@ -33,3 +33,10 @@ width: 450px;
 h2 {
   background-color: rgb(46, 46, 46);
 }
+
+.quote-border {
+  border-style: solid;
+  border-color: grey;
+  border-radius: 5px;
+  border-width: 15px;
+}
