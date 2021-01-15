@@ -1,4 +1,4 @@
-# My First Webpage
+# My First Website
 
 #### This is a directory containing my first ever written HTML documents. 
 
@@ -13,35 +13,34 @@
 
 ## Description
 
-This folder contains 2 .html files, and a sub-folder that contains assets, to which those .html files reference, a css file and a readme. The purpose of this project is to demonstrate my current skill and knowledge of HTML, as well as document my progress, during my time learning at Epicodus.
+This repository contains 3 .html files, and sub-folders that contains assets, to which those .html files reference such as, styles.css, bootstrap.css, and a readme. The purpose of this project is to demonstrate my current skill and knowledge of HTML, as well as document my progress, during my time learning at Epicodus.
 
 ## How To View Online
 
-Visit this address by copying and pasting this URL into the addess bar: https://codeja91.github.io/
+Visit this address by either clicking this URL: https://codeja91.github.io/ or copying and pasting into the addess/search bar.
 
 ## How To Download For Offline Viewing
 
 The only requirement to download and view my project offline is to have an internet browser installed.
-* (1). Click or copy this URL: https://github.com/CodeJA91/my-first-webpage/archive/main.zip
-* (2). If it hasn't begun downloading, paste the URL into your preferred web browser's address bar, after which,
+* (1). Click or copy this URL: 
+* (2). If it hasn't begun downloading, paste the URL into your preferred web browser's address bar, after which 
 the download should start automatically.
-* (3). Extract the contents of the now downloaded .zip onto any location on your computer, then navigate and open the folder: "my-first-webpage-main"
-* (4). Select and right-click "my-first-webpage.html"
-* (5). Select "Open With" in the context menu
-* (6). Select your preferred internet browser
-* (7). Ca$h Money
+* (3). Extract the contents of the now downloaded .zip onto any location on your computer, then navigate and open the folder: "my-first-webpage-main".
+* (4). Select and right-click "my-first-webpage.html".
+* (5). Select "Open With" in the context menu.
+* (6). Select your preferred internet browser.
 
-#### No luck? Please proceed to bash head into keyboard repeatedly, then repeat steps 1-6.
+#### No luck? Then try to repeat steps 1-6.
 
 ## Roadmap For Self
 
-Implement CSS and JS elements into my pages.
+Implement JS elements into my pages.
 
 ## Credit
 
 I give credit to my resources:
 
-* https://www.epicodus.com/ - A vocational coding/programming bootcamp with a curriculum structured for online/on location. 
+* https://www.epicodus.com/about - A vocational coding/programming bootcamp with a curriculum structured for online/on location. 
 
 * https://www.freecodecamp.org/ - A free online coding/programming school and excellent resource.
 
@@ -51,7 +50,7 @@ Thank you for giving me the skills to create content.
 
 MIT License
 
-Copyright (C) <2021> <Cody J. Allen>
+Copyright (c) 2021 Cody J. Allen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
