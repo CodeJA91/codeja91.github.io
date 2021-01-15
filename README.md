@@ -22,7 +22,7 @@ Visit this address by either clicking this URL: https://codeja91.github.io/ or c
 ## How To Download For Offline Viewing
 
 The only requirement to download and view my project offline is to have an internet browser installed.
-* (1). Click or copy this URL: 
+* (1). Click this URL: https://github.com/CodeJA91/codeja91.github.io/archive/main.zip
 * (2). If it hasn't begun downloading, paste the URL into your preferred web browser's address bar, after which 
 the download should start automatically.
 * (3). Extract the contents of the now downloaded .zip onto any location on your computer, then navigate and open the folder: "my-first-webpage-main".
