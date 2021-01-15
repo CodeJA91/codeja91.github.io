@@ -40,3 +40,13 @@ a {
 .center {
   text-align: center;
 }
+
+.bborder {
+  border-style:double;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50px;
+  border-width: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
