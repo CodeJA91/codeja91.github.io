@@ -16,16 +16,16 @@ body {
   text-align: center;
   background-color: black;
   color: white;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, sans-serif;
   margin: 0 auto;
 }
 
 img {
-width: 450px;
-border-color: white;
-border-width: 10;
-border-style: solid;
-border-radius: 10px;  
+  width: 450px;
+  border-color: white;
+  border-width: 10;
+  border-style: solid;
+  border-radius: 10px;  
 }
 
 .quote-border {
@@ -56,30 +56,10 @@ a {
   margin-right: 0px;
 }
 
-.imgl {
-width: 350px;
-border-color: white;
-border-width: 5;
-border-style: solid;
-border-radius: 5px;
-float: left;
-margin-left: 300px;
+.ig {
+  width: 35px;
+  border-radius: 10px;
 }
-
-.imgr {
-  width: 20px;
-  border-color: white;
-  border-width: 5;
-  border-style: solid;
-  border-radius: 5px;
-  float: right;
-  margin-right: 30px;
-  }
-
-  .ig {
-    width: 35px;
-    border-radius: 10px;
-  }
 
 .smborder {
   border-style: solid;
