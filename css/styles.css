@@ -1,14 +1,23 @@
 ul {
   font-size: 20px;
   line-height: 30px;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+ol {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
 }
 
 body {
   text-align: center;
   background-color: black;
   color: white;
-  list-style-position: inside;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+  margin: 0 auto;
 }
 
 img {
@@ -58,11 +67,11 @@ margin-left: 300px;
 }
 
 .imgr {
-  width: 350px;
+  width: 20px;
   border-color: white;
   border-width: 5;
   border-style: solid;
   border-radius: 5px;
   float: right;
-  margin-right: 300px;
+  margin-right: 30px;
   }
