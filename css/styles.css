@@ -48,21 +48,21 @@ a {
 }
 
 .imgl {
-width: 300px;
+width: 350px;
 border-color: white;
 border-width: 5;
 border-style: solid;
 border-radius: 5px;
 float: left;
-margin-left: 100px;
+margin-left: 300px;
 }
 
 .imgr {
-  width: 300px;
+  width: 350px;
   border-color: white;
   border-width: 5;
   border-style: solid;
   border-radius: 5px;
   float: right;
-  margin-right: 100px;
+  margin-right: 300px;
   }
