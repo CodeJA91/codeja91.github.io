@@ -25,8 +25,8 @@ The only requirement to download and view my project offline is to have an inter
 * (1). Click this URL: https://github.com/CodeJA91/codeja91.github.io/archive/main.zip
 * (2). If it hasn't begun downloading, paste the URL into your preferred web browser's address bar, after which 
 the download should start automatically.
-* (3). Extract the contents of the now downloaded .zip onto any location on your computer, then navigate and open the folder: "my-first-webpage-main".
-* (4). Select and right-click "my-first-webpage.html".
+* (3). Extract the contents of the now downloaded .zip onto any location on your computer, then navigate and open the folder: "codeja91.github.io-main".
+* (4). Select and right-click "codeja91.github.io-main".
 * (5). Select "Open With" in the context menu.
 * (6). Select your preferred internet browser.
 
