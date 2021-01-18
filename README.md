@@ -1,6 +1,6 @@
 # My First Website
 
-#### This is a directory containing my first ever written HTML documents. 
+#### This is a directory containing my first ever written HTML documents that serves as my portfolio landing site. 
 
 #### By CodeJA91
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-This repository contains 3 .html files, and sub-folders that contains assets, to which those .html files reference such as, styles.css, bootstrap.css, and a readme. The purpose of this project is to demonstrate my current skill and knowledge of HTML, as well as document my progress, during my time learning at Epicodus.
+This repository contains HTML files, and sub-folders that contains assets, to which those HTML files reference, such as: styles.css and bootstrap.css. The purpose of this project is to demonstrate my current skill and knowledge of HTML and CSS, as well as document my progress, during my time learning at Epicodus.
 
 ## How To View Online
 
@@ -40,7 +40,7 @@ Implement JS elements into my pages.
 
 I give credit to my resources:
 
-* https://www.epicodus.com/about - A vocational coding/programming bootcamp with a curriculum structured for online/on location. 
+* https://www.epicodus.com/about - A vocational coding/programming bootcamp with a curriculum structured for learning online/on location. 
 
 * https://www.freecodecamp.org/ - A free online coding/programming school and excellent resource.
 
